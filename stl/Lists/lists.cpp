@@ -4,6 +4,7 @@
 using namespace std;
 
 
+
 void print(const list<int>& my_list){
 	cout<<"List content: { ";
 	for (auto const &i: my_list) {
