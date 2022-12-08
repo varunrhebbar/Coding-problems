@@ -1,5 +1,5 @@
 #include<iostream>
-
+# hahahahaha
 using namespace std;
 
 void checkpal(string str){
